@@ -28,7 +28,7 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 
 ## 🌍 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/avez-chadchan">
+  <a href="https://www.linkedin.com/in/avez-chadchan-924040276">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/AvezChadchan">
