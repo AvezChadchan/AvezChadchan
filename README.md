@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/edbcb76f-7a58-43db-9e41-21c8ac551fe9)# Hey 👋 What's up?
+# Hey 👋 What's up?
 
 My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 
