@@ -30,8 +30,7 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 </p>
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avezc&bg_color=0D1117&color=A277FF&line=C084FC&point=FFFFFF&area=true&hide_border=true
-" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avezc&bg_color=0D1117&color=A277FF&line=C084FC&point=FFFFFF&area=true&hide_border=true" />
 </p>
 ---
 ## 🌍 Connect with Me  
