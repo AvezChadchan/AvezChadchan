@@ -27,7 +27,8 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvezChadchan&theme=algolia&no-bg=true&margin-w=15&title=MultiLanguage,Repositories,Commits,Followers,Stars,PullRequest,Issues,Experience" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=AvezChadchan&theme=algolia&column=7&margin-w=10&margin-h=15&no-frame=true&no-bg=true&title=Followers,Stars,Repositories,PullRequest,Commit,Issues,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+" />
 </p>
 ---
 <p align="center">
