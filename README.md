@@ -21,20 +21,21 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvezChadchan&theme=radical&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvezChadchan&theme=radical&layout=compact&hide_border=true" width="48%" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvezChadchan&theme=gruvbox&title=MultiLanguage,Repositories,Commits,Followers,Stars,PullRequest,Issues,Experience&margin-w=10&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvezChadchan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvezChadchan&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" width="48%" />
 </p>
 
 
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvezChadchan&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AvezChadchan&theme=algolia&no-bg=true&margin-w=15&title=MultiLanguage,Repositories,Commits,Followers,Stars,PullRequest,Issues,Experience" />
 </p>
+
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvezChadchan&theme=tokyo-night&area=true&hide_border=true&radius=16" />
+</p>
+
 
 
 ---
