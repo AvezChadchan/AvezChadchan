@@ -17,7 +17,7 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 </p>
 
 ---
-##📊 GitHub Stats & Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AvezChadchan&show_icons=true&theme=radical&hide_border=true&border_radius=16" width="48%" />
