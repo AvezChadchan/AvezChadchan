@@ -30,8 +30,9 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvezChadchan&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvezChadchan&theme=tokyo-night&area=true&hide_border=true" />
 </p>
+
 
 ---
 ## 🌍 Connect with Me  
