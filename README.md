@@ -47,6 +47,6 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 </p>
 
 ---
-https://raw.githubusercontent.com/AvezChadchan/AvezChadchan/output/github-contribution-grid-snake.svg
+<img src="https://raw.githubusercontent.com/AvezChadchan/AvezChadchan/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation dark" />
 
 
