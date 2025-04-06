@@ -19,9 +19,10 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvezChadchan&show_icons=true&theme=midnight-purple&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvezChadchan&layout=compact&theme=midnight-purple" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AvezChadchan&theme=radical&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvezChadchan&theme=radical&layout=compact&hide_border=true" width="48%" />
 </p>
 
 
