@@ -23,9 +23,21 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
   <img src="https://github-readme-stats.vercel.app/api?username=AvezChadchan&show_icons=true&theme=midnight-purple&include_all_commits=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvezChadchan&layout=compact&theme=midnight-purple" height="150"/>
 </p>
+---
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AvezChadchan&theme=darkhub&title=MultiLanguage,Repositories,Commits,Followers,Stars,PullRequest,Issues,Experience&margin-w=10&no-bg=true&no-frame=true"/>
+</p>
 
 ---
+<h3 align="center">📈 Contribution Graph</h3>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvezChadchan&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/avez-chadchan-924040276/" target="_blank">
