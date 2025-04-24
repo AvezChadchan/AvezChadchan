@@ -31,11 +31,6 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvezChadchan&theme=react-dark&color=9e5fff&line=9e5fff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/avez-chadchan-924040276/" target="_blank">
@@ -45,9 +40,3 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
       <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
   </a>
 </p>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvezChadchan/AvezChadchan/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AvezChadchan/AvezChadchan/output/github-contribution-grid-snake.svg" />
-</picture>
