@@ -35,12 +35,6 @@ My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvezChadchan&layout=compact&theme=radical&title_color=9F7AEA&text_color=E2E8F0&bg_color=0d1117" />
 </p>
 
-
----
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvezChadchan&theme=algolia&column=7&margin-w=10&margin-h=15&no-frame=true&no-bg=true&title=Followers,Stars,Repositories,PullRequest,Commit,Issues,Experience" />
-</p>
-
 ---
 ## 🌍 Connect with Me  
 <p align="center">
