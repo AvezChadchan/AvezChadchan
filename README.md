@@ -3,7 +3,6 @@
 My name is Avez Chadchan and I'm a Computer Engineering Student & Developer.
 
 ## About Me
-- 🐞 Creating bugs since 2023
 - 🌱 I'm currently learning **Android Development & exploring something that connects the front to the back 😉**
 - 🎯 Goals: **Improve programming skills and build innovative projects**
 - 🚀 Currently working on: **Turning coffee into code and ideas into reality ☕💻**
